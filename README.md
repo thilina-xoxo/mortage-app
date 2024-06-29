@@ -1,6 +1,6 @@
 # Mortgage Financing Application
 
-This is a simple monolithic application in the mortgage financing domain. The application is built using Spring Boot 7 and Java 17, focusing on REST APIs, data access with JPA, basic web security, and containerization using Docker. The project uses Gradle for dependency management and includes unit tests with Mockito and JUnit.
+This is a simple monolithic application in the mortgage financing domain. The application is built using Spring Boot 3 and Java 17, focusing on REST APIs, data access with JPA, basic web security, and containerization using Docker. The project uses Gradle for dependency management and includes unit tests with Mockito and JUnit.
 
 ## Table of Contents
 
