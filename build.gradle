@@ -46,6 +46,9 @@ dependencies {
 	testImplementation 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 
+	// Model mapper
+	implementation 'org.modelmapper:modelmapper:3.0.0'
+
 }
 
 tasks.named('test') {
